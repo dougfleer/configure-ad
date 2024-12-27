@@ -26,10 +26,6 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Deployment and Configuration Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Active Directory Deployment"/>
-</p>
-
 ### Step 1: Prepare Azure Infrastructure
 1. **Create a Resource Group**:
    - Navigate to the Azure portal and create a new resource group for the lab.
